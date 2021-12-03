@@ -16,4 +16,5 @@
 10. **DO NOT CLICK ON ANY POP UP ADS ON A WEBPAGE THAT LOOK LIKE THIS!!**
 11. ![Ads](ads.jpeg)
 12. **Have fun browsing while being safe and completing your needs on the internet!!**
+
 -[Home](https://github.com/jcwnpd/Final-Project/blob/aee63e2a6d896432a0bab2ebb10946f2df3023b0/README.md)
