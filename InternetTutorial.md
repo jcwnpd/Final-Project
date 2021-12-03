@@ -8,4 +8,6 @@
 2. Once you have found the wb browser you will need to open whichever of your choosing!
 3. Depending on which web browser you use, you will need to find the search bar which is more than likely at the top of the page, or if you are using google chrome it will be in the middle of the page.
 4. After you have found the search bar you will need to click on it then type in what you are trying to find!
-5. 
+5. Once you press "Enter" or "Return"(depending on what type of computer you have) a long list of links for websites that will provide the information you are looking for!
+6. **Be very careful on what links you click on!! Always try and look for the website to start with "https" rather than "http"**
+7. **Look for a lock icon and click on it to make sure the website you are on is safe!!**
