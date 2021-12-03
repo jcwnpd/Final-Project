@@ -4,3 +4,6 @@
 - We are able to connect, gather information on just about anything, and much more on the internet.
 - With that being said it is easy to get confused on how to use the internet!
 ## How to use the internet
+1. First things first is you will need to identify what web browser you want to use. That could be Google, Safari, Firefox and others.
+2. Once you have found the wb browser you will need to open whichever of your choosing!
+3. 
