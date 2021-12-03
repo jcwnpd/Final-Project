@@ -11,3 +11,4 @@
 5. Once you press "Enter" or "Return"(depending on what type of computer you have) a long list of links for websites that will provide the information you are looking for!
 6. **Be very careful on what links you click on!! Always try and look for the website to start with "https" rather than "http"**
 7. **Look for a lock icon and click on it to make sure the website you are on is safe!!**
+[Home](https://github.com/jcwnpd/Final-Project/blob/aee63e2a6d896432a0bab2ebb10946f2df3023b0/README.md)
